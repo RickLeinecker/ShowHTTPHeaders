@@ -1,0 +1,6 @@
+E:\Work\Writing Dev\Digital Forensics Magazine\ShowHTTPHeaders\ShowHTTPHeaders\bin\Debug\ShowHTTPHeaders.exe.config
+E:\Work\Writing Dev\Digital Forensics Magazine\ShowHTTPHeaders\ShowHTTPHeaders\bin\Debug\ShowHTTPHeaders.exe
+E:\Work\Writing Dev\Digital Forensics Magazine\ShowHTTPHeaders\ShowHTTPHeaders\bin\Debug\ShowHTTPHeaders.pdb
+E:\Work\Writing Dev\Digital Forensics Magazine\ShowHTTPHeaders\ShowHTTPHeaders\obj\Debug\ShowHTTPHeaders.csprojResolveAssemblyReference.cache
+E:\Work\Writing Dev\Digital Forensics Magazine\ShowHTTPHeaders\ShowHTTPHeaders\obj\Debug\ShowHTTPHeaders.exe
+E:\Work\Writing Dev\Digital Forensics Magazine\ShowHTTPHeaders\ShowHTTPHeaders\obj\Debug\ShowHTTPHeaders.pdb
